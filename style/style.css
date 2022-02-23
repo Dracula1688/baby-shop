@@ -1282,3 +1282,6 @@ a {
     align-items: center;
     justify-content: space-between;
 }
+.footer-bottom-main p{
+    color: var(--white);
+}
